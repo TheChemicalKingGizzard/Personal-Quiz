@@ -38,10 +38,10 @@ extension Question {
                 text: "Любите ли вы поездки?",
                 type: .ranged,
                 answers: [
-                    Answer(text: "Очень не люблю", type: .dog),
+                    Answer(text: "Очень не люблю", type: .turtle),
                     Answer(text: "Скорее не люблю", type: .cat),
                     Answer(text: "Люблю", type: .rabbit),
-                    Answer(text: "Обожаю", type: .turtle)
+                    Answer(text: "Обожаю", type: .dog)
                 ]
             )
         ]
